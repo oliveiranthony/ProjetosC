@@ -1,2 +1,6 @@
 # ProjetosC
-📋 Repositório onde irei anexar as principais atividades de desenvolvimento na Linguagem C
+---
+📋 *Seja bem-vindo(a) ao meu repositório de publicações em Linguagem C.*
+-*Aqui encontra-se meus projetos e as principais atividades acadêmicas que me foram incentivaddas pela graduação.*
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white).
