@@ -4,10 +4,10 @@
 
 int main () {
     printf("---Selecione o modo de jogo---\n");
-    printf("Modo Historia\n");
-    printf("Modo Desafio\n");
-    printf("Configuracoes\n");
-    printf("Sair do jogo\n");
+    printf("1 - Modo Historia\n");
+    printf("2 - Modo Desafio\n");
+    printf("3 - Configuracoes\n");
+    printf("4 - Sair do jogo\n");
 int opcao;
 scanf("%d", &opcao);
 
