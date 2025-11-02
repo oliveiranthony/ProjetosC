@@ -429,9 +429,9 @@ int main() {
 
             case 6:
             printf("Telefone dos colaboradores: \n");
-            printf("Nathan: (16)99745-3344\n");
-            printf("Victor: (16)99746-3344\n");
-            printf("Anthony: (74)99770-4246\n");
+            printf("Nathan: (16)****-****\n");
+            printf("Victor: (16)****-****\n");
+            printf("Anthony: (74)99970-4246\n");
             printf("email da companhia: ");
             printf("suporte@hotelsonhodevalsa.com\n");
             break;
